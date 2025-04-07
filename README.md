@@ -1,4 +1,6 @@
-Este material foi desenvolvido originalmente para o minicurso "Espectroscopia em Herbário com MicroNIR: Teoria e Prática", ministrado por Flávia M. Durgante e Caroline C. Vasconcelos. O curso faz parte do Projeto “Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP”, financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - MULHER FAZ CIÊNCIA.
+Este material foi desenvolvido originalmente para o minicurso "Espectroscopia em Herbário com MicroNIR: Teoria e Prática", ministrado por Flávia M. Durgante e Caroline C. Vasconcelos. 
+
+O curso faz parte do Projeto “Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP”, financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - MULHER FAZ CIÊNCIA.
 
 Se você utilizar o fluxo de trabalho (códigos e dados exemplo) como base para seus próprios projetos (comerciais ou não), por favor, mencione este repositório [em breve o link ZENODO] e atribua os devidos créditos. Isso ajuda a valorizar o trabalho e mantém a comunidade científica aberta e colaborativa. Estamos trabalhando para que esse fluxo de trabalho seja implementado em um pacote R. Aguarde atualizações.
 
