@@ -11,4 +11,4 @@ Sinta-se à vontade para adaptar e expandir este conteúdo, desde que a autoria 
 📁 Para começar, baixe o arquivo .zip, extraia o diretório com os arquivos necessários, abra o projeto .Rproj e, no RStudio, importe os scripts.
 
 Citação recomendada:
-Vasconcelos, C., Hopkins, M., & Durgante, F. (2025). R codes and datasets used in the course "Herbarium Spectroscopy with MicroNIR: Theory and Practice" (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15531968.
+Vasconcelos, C., & Durgante, F. (2025). R codes and datasets used in the course "Herbarium Spectroscopy with MicroNIR: theory and practice" (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15531968
